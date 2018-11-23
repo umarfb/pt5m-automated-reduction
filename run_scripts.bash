@@ -1,0 +1,4 @@
+python3 test_bed_data_reduction.py
+python3 test_bed_alignment.py
+python3 test_bed_photometry.py
+python3 test_bed_calibration.py
